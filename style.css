@@ -1,0 +1,19 @@
+
+
+
+*{
+    background-color: khaki;
+}
+.input{
+    text-align: center;
+    margin: 20px;
+    padding-bottom: 10px;
+}
+.button{
+    text-align: center;
+ border-bottom: 1px solid grey;
+margin-bottom: 10px;
+}
+.btn-primary{
+    margin: 10px;
+}
